@@ -6,7 +6,7 @@
 <p align="center">
  
   
-#Myself Kira<br><br>👨‍💻 Full Stack Developer <br>🌐 Web  <br>🚀 Transforming Ideas into Code <br>🎨 Designing Digital Experiences <br>🔗 Open Source Advocate
+# Myself Kira<br><br>👨‍💻 Full Stack Developer <br>🌐 Web  <br>🚀 Transforming Ideas into Code <br>🎨 Designing Digital Experiences <br>🔗 Open Source Advocate
 
 
 ## 🌐 Socials:
