@@ -6,7 +6,13 @@
 <p align="center">
  
   
-# Myself Kira<br><br>👨‍💻 Full Stack Developer <br>🌐 Web  <br>🚀 Transforming Ideas into Code <br>🎨 Designing Digital Experiences <br>🔗 Open Source Advocate
+# Mʏsᴇʟғ Kɪʀᴀ<br><br>
+
+<br>👨‍💻 Fᴜʟʟ Sᴛᴀᴄᴋ Dᴇᴠᴇʟᴏᴘᴇʀ
+<br>🌐 Wᴇʙ
+<br>🚀 Tʀᴀɴsғᴏʀᴍɪɴɢ Iᴅᴇᴀs ɪɴᴛᴏ Cᴏᴅᴇ
+<br>🎨 Dᴇsɪɢɴɪɴɢ Dɪɢɪᴛᴀʟ Exᴘᴇʀɪᴇɴᴄᴇs
+🔗 Oᴘᴇɴ Sᴏᴜʀᴄᴇ Aᴅᴠᴏᴄᴀᴛᴇ
 
 
 ## 🌐 Socials:
