@@ -4,9 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=A+Enthusiastic+Developer+From+India%E2%9C%8C%EF%B8%8F;Working+For+Team+X+Network</>%E2%9D%A4%EF%B8%8F">
 </p>
 <p align="center">
- 
   
-# Mʏsᴇʟғ Kɪʀᴀ<br><br>
+# Mʏsᴇʟғ Kɪʀᴀ<br>
 
 <br>👨‍💻 Fᴜʟʟ Sᴛᴀᴄᴋ Dᴇᴠᴇʟᴏᴘᴇʀ
 <br>🌐 Wᴇʙ
